@@ -1,0 +1,12 @@
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\log4net.config
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.exe
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.dll
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.deps.json
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.runtimeconfig.json
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.dll.config
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\MatrixLog4NetTest.pdb
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\log4net.dll
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\System.Security.Permissions.dll
+C:\Users\omer\Source\Repos\MatrixLog4NetTest\bin\Release\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

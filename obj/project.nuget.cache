@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3wW1B0xkn/bye4M0qldriyNSWWpvqYpXIk65njC/MEkadfE9pWKG431YOxx1QqNf8ZzG29b4C9tRjWkDX/WYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer\\Source\\Repos\\MatrixLog4NetTest\\MatrixLog4NetTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer\\.nuget\\packages\\log4net\\2.0.13\\log4net.2.0.13.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
